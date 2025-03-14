@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end and Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://animated-banoffee-882ac3.netlify.app/](https://animated-banoffee-882ac3.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://animated-banoffee-882ac3.netlify.app/)
 
 - 📫 How to reach me **itzmemaha1417@gmail.com**
 
