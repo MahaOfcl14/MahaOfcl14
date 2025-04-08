@@ -15,8 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mahalakshmi-manohar-12080b242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahalakshmi manohar" height="30" width="40" /></a>
 <a href="https://fb.com/maha_141716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maha_141716" height="30" width="40" /></a>
-<a href="https://instagram.com/maha_141716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maha_141716" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahalakshmi1417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahalakshmi1417" height="30" width="40" /></a>
+
 </p>
 
 
