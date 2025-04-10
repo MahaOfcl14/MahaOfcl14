@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahalakshmi Manohar</h1>
 <h3 align="center">A passionate Front-end | MERN Stack Developer </h3>
 
-- 🌱 **5 Star Coder** on Hacker Rank
+- 🌱 **5 Star Coder** on **Hacker Rank**
 - 
 - 🌱 Solved **450+ DSA Problems** on various coding platforms
 
