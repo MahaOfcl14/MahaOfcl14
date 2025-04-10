@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Front-end | MERN Stack Developer </h3>
 
 - 🌱 **5 Star Coder** on **Hacker Rank**
-- 
 - 🌱 Solved **450+ DSA Problems** on various coding platforms
 
 - 👯 I’m looking to collaborate on **Front-end and Full Stack Development**
