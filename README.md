@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahalakshmi Manohar</h1>
 <h3 align="center">A passionate Front-end | MERN Stack Developer </h3>
 
-- 🔭 I’m currently working on **AI Content Generator APP**
-
-- 🌱 I’m currently learning **DSA & Problem Solving**
+- 🌱 **5 Star Coder** on Hacker Rank
+- 
+- 🌱 Solved **450+ DSA Problems** on various coding platforms
 
 - 👯 I’m looking to collaborate on **Front-end and Full Stack Development**
 
