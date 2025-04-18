@@ -6,8 +6,6 @@
 
 - 👯 I’m looking to collaborate on **Front-end and Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://animated-banoffee-882ac3.netlify.app/)
-
 - 📫 How to reach me **itzmemaha1417@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -80,5 +78,8 @@
  
 # 📊 GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MahaOfcl14?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+
+# 🔥 GitHub Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MahaOfcl14)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
